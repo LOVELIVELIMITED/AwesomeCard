@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:awesome_card_zh/awesome_card.dart';
+import 'package:awesome_card_zh/awesome_card_zh.dart';
 
 void main() => runApp(MyApp());
 

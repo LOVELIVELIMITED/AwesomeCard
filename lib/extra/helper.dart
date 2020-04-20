@@ -8,77 +8,77 @@ Widget getCardTypeIcon({CardType cardType, String cardNumber}) {
         "images/card_provider/american_express.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.dinersClub:
       return Image.asset(
         "images/card_provider/diners_club.png",
         width: 40,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.discover:
       return Image.asset(
         "images/card_provider/discover.png",
         width: 70,
         height: 50,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.jcb:
       return Image.asset(
         "images/card_provider/jcb.png",
         width: 40,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.masterCard:
       return Image.asset(
         "images/card_provider/master_card.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.maestro:
       return Image.asset(
         "images/card_provider/maestro.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.rupay:
       return Image.asset(
         "images/card_provider/rupay.png",
         width: 80,
         height: 50,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.visa:
       return Image.asset(
         "images/card_provider/visa.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.wechatpay:
       return Image.asset(
         "images/card_provider/wechatpay.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.alipay:
       return Image.asset(
         "images/card_provider/alipay.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     case CardType.unionpay:
       return Image.asset(
         "images/card_provider/unionpay.png",
         width: 55,
         height: 40,
-        package: 'awesome_card',
+        package: 'awesome_card_zh',
       );
     default:
       return Container();

@@ -1,4 +1,4 @@
-library awesome_card;
+library awesome_card_zh;
 
 export 'credit_card.dart';
 export 'style/card_background.dart';

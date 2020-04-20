@@ -55,7 +55,7 @@ class CardFrontLayout {
                     width: 30.0,
                     height: 30.0,
                     color: textColor,
-                    package: 'awesome_card',
+                    package: 'awesome_card_zh',
                   ),
                 ),
               ),
@@ -79,7 +79,7 @@ class CardFrontLayout {
                               ? 'XXXX XXXX XXXX XXXX'
                               : cardNumber,
                           style: TextStyle(
-                              package: 'awesome_card',
+                              package: 'awesome_card_zh',
                               color: textColor,
                               fontWeight: FontWeight.w500,
                               fontFamily: "MavenPro",
@@ -95,7 +95,7 @@ class CardFrontLayout {
                             Text(
                               "Exp. Date",
                               style: TextStyle(
-                                  package: 'awesome_card',
+                                  package: 'awesome_card_zh',
                                   color: textColor,
                                   fontFamily: "MavenPro",
                                   fontSize: 15),
@@ -108,7 +108,7 @@ class CardFrontLayout {
                                   ? "MM/YY"
                                   : cardExpiry,
                               style: TextStyle(
-                                  package: 'awesome_card',
+                                  package: 'awesome_card_zh',
                                   color: textColor,
                                   fontWeight: FontWeight.w500,
                                   fontFamily: "MavenPro",
@@ -124,7 +124,7 @@ class CardFrontLayout {
                               ? "Card Holder"
                               : cardHolderName,
                           style: TextStyle(
-                              package: 'awesome_card',
+                              package: 'awesome_card_zh',
                               color: textColor,
                               fontWeight: FontWeight.w500,
                               fontFamily: "MavenPro",
