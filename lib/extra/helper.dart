@@ -1,4 +1,4 @@
-import 'package:awesome_card/extra/card_type.dart';
+import 'package:awesome_card_zh/extra/card_type.dart';
 import 'package:flutter/material.dart';
 
 Widget getCardTypeIcon({CardType cardType, String cardNumber}) {

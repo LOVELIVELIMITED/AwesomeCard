@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:awesome_card/awesome_card.dart';
-import 'package:awesome_card/extra/helper.dart';
+import 'package:awesome_card_zh/awesome_card.dart';
+import 'package:awesome_card_zh/extra/helper.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

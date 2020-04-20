@@ -30,7 +30,7 @@ ___
 Import the following package in your dart file
 
 ```dart
-import 'package:awesome_card/awesome_card.dart';
+import 'package:awesome_card_zh/awesome_card.dart';
 ```
 
 ## 👨‍💻 Usage
