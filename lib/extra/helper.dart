@@ -59,6 +59,27 @@ Widget getCardTypeIcon({CardType cardType, String cardNumber}) {
         height: 40,
         package: 'awesome_card',
       );
+    case CardType.wechatpay:
+      return Image.asset(
+        "images/card_provider/wechatpay.png",
+        width: 55,
+        height: 40,
+        package: 'awesome_card',
+      );
+    case CardType.alipay:
+      return Image.asset(
+        "images/card_provider/alipay.png",
+        width: 55,
+        height: 40,
+        package: 'awesome_card',
+      );
+    case CardType.unionpay:
+      return Image.asset(
+        "images/card_provider/unionpay.png",
+        width: 55,
+        height: 40,
+        package: 'awesome_card',
+      );
     default:
       return Container();
   }
