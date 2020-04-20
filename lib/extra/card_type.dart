@@ -7,5 +7,8 @@ enum CardType {
   maestro,
   rupay,
   visa,
+  wechatpay,
+  alipay,
+  unionpay,
   other
 }

@@ -1,8 +1,8 @@
-name: awesome_card
+name: awesome_card_zh
 description: Flutter package to create a Credit Card Widget in your application.
-version: 1.1.0
-author: Vivek Kaushik <kaushikvivek.17@gmail.com>
-homepage: https://github.com/iamvivekkaushik/AwesomeCard
+version: 1.0.0
+author: Uasagi Ryuu <tu@lovelive.team>
+homepage: https://github.com/LOVELIVELIMITED/AwesomeCard
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
